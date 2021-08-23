@@ -191,7 +191,7 @@ body,
     color: transparent;
 }
 .withFrame-haYltI::after { /*Wordmark*/
-    content: "DUALITY";
+    content: "DISCORD";
     position: absolute;
     font-size: 1rem;
     color: rgba(var(--server-channel-textc), 0.5)!important;
